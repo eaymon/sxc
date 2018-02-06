@@ -1,0 +1,301 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BitcoindComparisonTool<bitcoinj-core>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.core.BitcoindComparisonTool",
+            "projectName": "bitcoinj-core",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackupToMnemonicSeed<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.BackupToMnemonicSeed",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoubleSpend<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.DoubleSpend",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DumpWallet<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.DumpWallet",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExamplePaymentChannelClient<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.ExamplePaymentChannelClient",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExamplePaymentChannelServer<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.ExamplePaymentChannelServer",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FetchBlock<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.FetchBlock",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FetchTransactions<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.FetchTransactions",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForwardingService<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.ForwardingService",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GenerateLowSTests<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.GenerateLowSTests",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Kit<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.Kit",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LevelDB<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.LevelDB",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LevelDbSizes<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.LevelDbSizes",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PeerMonitor<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.PeerMonitor",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrintPeers<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.PrintPeers",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrivateKeys<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.PrivateKeys",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RefreshWallet<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.RefreshWallet",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RestoreFromSeed<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.RestoreFromSeed",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SendRequest<bitcoinj-examples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.examples.SendRequest",
+            "projectName": "bitcoinj-examples",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BlockImporter<bitcoinj-tools>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.tools.BlockImporter",
+            "projectName": "bitcoinj-tools",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BuildCheckpoints<bitcoinj-tools>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.tools.BuildCheckpoints",
+            "projectName": "bitcoinj-tools",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PaymentProtocolTool<bitcoinj-tools>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.tools.PaymentProtocolTool",
+            "projectName": "bitcoinj-tools",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestFeeLevel<bitcoinj-tools>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.tools.TestFeeLevel",
+            "projectName": "bitcoinj-tools",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WalletTool<bitcoinj-tools>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.tools.WalletTool",
+            "projectName": "bitcoinj-tools",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WatchMempool<bitcoinj-tools>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "org.bitcoinj.tools.WatchMempool",
+            "projectName": "bitcoinj-tools",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<wallettemplate>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "wallettemplate.Main",
+            "projectName": "wallettemplate",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 0
+        }
+    ]
+}
